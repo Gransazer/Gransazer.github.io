@@ -1,0 +1,30 @@
+body{
+	color: black;
+	background-image: url(bg.jpg);
+	text-indent: 2em;
+	border: solid 1px black;
+	width: 1000px;
+	height: auto;
+	padding: 10px;
+	margin: 10px auto;
+	font-size: 14px;
+	}
+.h1{
+	background-color: aqua;
+	text-align: center;
+	}
+.p1{
+	text-align: center;
+	color: darkgray;
+	text-decoration: underline;
+	margin-top:10px;
+	}
+.p2{
+	font-style: oblique;
+	font-size: 18px;
+	color: red;
+	}
+.line
+	{
+	text-decoration: overline;
+	}
